@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Adobe/SurveiMy/app/src/main/res/drawable/bg_section_spinner.xml" value="0.1375" />
+        <entry key="..\:/Adobe/SurveiMy/app/src/main/res/drawable/down_shadow.xml" value="0.1375" />
+        <entry key="..\:/Adobe/SurveiMy/app/src/main/res/drawable/text_input.xml" value="0.1555" />
+        <entry key="..\:/Adobe/SurveiMy/app/src/main/res/font/abril_fatface.xml" value="0.23958333333333334" />
+        <entry key="..\:/Adobe/SurveiMy/app/src/main/res/layout/activity_detail_responden.xml" value="0.25" />
+        <entry key="..\:/Adobe/SurveiMy/app/src/main/res/layout/activity_detail_survey.xml" value="0.2193103448275862" />
+        <entry key="..\:/Adobe/SurveiMy/app/src/main/res/layout/activity_history.xml" value="0.14114583333333333" />
+        <entry key="..\:/Adobe/SurveiMy/app/src/main/res/layout/activity_login.xml" value="0.14114583333333333" />
+        <entry key="..\:/Adobe/SurveiMy/app/src/main/res/layout/activity_main.xml" value="0.26900584795321636" />
+        <entry key="..\:/Adobe/SurveiMy/app/src/main/res/layout/activity_mysurvey.xml" value="0.14114583333333333" />
+        <entry key="..\:/Adobe/SurveiMy/app/src/main/res/layout/activity_notification.xml" value="0.14114583333333333" />
+        <entry key="..\:/Adobe/SurveiMy/app/src/main/res/layout/activity_profile.xml" value="0.21" />
+        <entry key="..\:/Adobe/SurveiMy/app/src/main/res/layout/activity_publish.xml" value="0.25" />
+        <entry key="..\:/Adobe/SurveiMy/app/src/main/res/layout/activity_register.xml" value="0.18" />
+        <entry key="..\:/Adobe/SurveiMy/app/src/main/res/layout/activity_responden.xml" value="0.14114583333333333" />
+        <entry key="..\:/Adobe/SurveiMy/app/src/main/res/layout/activity_splash.xml" value="0.10371376811594203" />
+        <entry key="..\:/Adobe/SurveiMy/app/src/main/res/layout/activity_take_survey.xml" value="0.25" />
+        <entry key="..\:/Adobe/SurveiMy/app/src/main/res/layout/activity_topup.xml" value="0.14114583333333333" />
+        <entry key="..\:/Adobe/SurveiMy/app/src/main/res/layout/activity_withdraw.xml" value="0.14114583333333333" />
+        <entry key="..\:/Adobe/SurveiMy/app/src/main/res/layout/bottom_publish_survey.xml" value="0.25" />
+        <entry key="..\:/Adobe/SurveiMy/app/src/main/res/layout/row_item_answer.xml" value="0.33" />
+        <entry key="..\:/Adobe/SurveiMy/app/src/main/res/layout/row_item_history.xml" value="0.14114583333333333" />
+        <entry key="..\:/Adobe/SurveiMy/app/src/main/res/layout/row_item_mysurvey.xml" value="0.33" />
+        <entry key="..\:/Adobe/SurveiMy/app/src/main/res/layout/row_item_notification.xml" value="0.5" />
+        <entry key="..\:/Adobe/SurveiMy/app/src/main/res/layout/row_item_option.xml" value="0.33" />
+        <entry key="..\:/Adobe/SurveiMy/app/src/main/res/layout/row_item_question.xml" value="0.33" />
+        <entry key="..\:/Adobe/SurveiMy/app/src/main/res/layout/row_item_responden.xml" value="0.25" />
+        <entry key="..\:/Adobe/SurveiMy/app/src/main/res/layout/row_item_spinner_question.xml" value="0.33" />
+        <entry key="..\:/Adobe/SurveiMy/app/src/main/res/layout/row_item_survey.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
